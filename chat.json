@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What is the primary purpose of the form you want to add?\", \"option1\": \"To collect user feedback\", \"option2\": \"To allow users to register for an account\"}, {\"question 2\": \"Do you have specific fields in mind that you want included in the form?\", \"option1\": \"Yes, I have a list of specific fields.\", \"option2\": \"No, I need suggestions on what fields to include.\"}], \"input_token_count\": 269, \"output_token_count\": 103, \"time_taken\": \"0:00:03.922676\"}",
+        "message_id": "bfa9acca9f6f4141a2300ee85cd8cc1e",
+        "timestamp": "20082024102403",
+        "component_file_name": "simple_hero_component_1724149168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll start working on adding the form.",
         "message_id": "9e17e549bd154ab0ad493910ec8b23bd",
