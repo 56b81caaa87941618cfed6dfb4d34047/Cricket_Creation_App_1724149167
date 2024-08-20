@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where on the app do you want the 'Nine' button to be added?\", \"option1\": \"On the main screen, visible as soon as the app is opened\", \"option2\": \"In a specific section of the app. Please specify which section.\"}, {\"question 2\": \"What function should the 'Nine' button perform when clicked?\", \"option1\": \"Take the user to a new page within the app. Please specify the page.\", \"option2\": \"Trigger a specific action or event within the app. Please specify the action.\"}], \"input_token_count\": 271, \"output_token_count\": 126, \"time_taken\": \"0:00:04.133318\"}",
         "timestamp": "20082024102339",
         "message_id": "3eda2c6fd32c407f8b6776e252a91b63"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Play/Pause' button to control live match updates\", \"checked\": true}, {\"feature\": \"Implement a 'Refresh' button for the latest scores and updates\", \"checked\": false}, {\"feature\": \"Add a 'Settings' button for app preferences like notifications\", \"checked\": true}, {\"feature\": \"Integrate a 'Share' button to share match scores with friends\", \"checked\": false}, {\"feature\": \"Include a 'Feedback' button for user suggestions or reporting issues\", \"checked\": true}, {\"feature\": \"Add a 'Dark/Light Mode' toggle button for user convenience\", \"checked\": false}], \"input_token_count\": 225, \"output_token_count\": 135, \"time_taken\": \"0:00:04.375386\"}",
+        "timestamp": "20082024102339",
+        "message_id": "efa481f298a641ff901f445de927b572"
     }
 ]
