@@ -54,5 +54,11 @@
         "content": "add a form ",
         "timestamp": "20082024102359",
         "message_id": "e15a06e3f04040dd9b38d939232b5104"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, I'll start working on adding the form.",
+        "timestamp": "20082024102359",
+        "message_id": "9e17e549bd154ab0ad493910ec8b23bd"
     }
 ]
