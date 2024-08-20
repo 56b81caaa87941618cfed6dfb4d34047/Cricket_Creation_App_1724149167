@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have specific shades of green and blue in mind for the background color?\", \"option1\": \"Yes, I will provide the hex codes.\", \"option2\": \"No, please use standard web shades.\"}, {\"question 2\": \"Is this color change intended for the entire app background or specific sections/pages?\", \"option1\": \"Entire app background\", \"option2\": \"Specific sections/pages\"}], \"input_token_count\": 273, \"output_token_count\": 97, \"time_taken\": \"0:00:04.077608\"}",
+        "message_id": "6097683952b8491cb2b52a8780c10c41",
+        "timestamp": "20082024102615",
+        "component_file_name": "simple_hero_component_1724149168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background color to green and blue",
         "message_id": "5d91607c7bcb414092dd2f8a8ec92b3f",
