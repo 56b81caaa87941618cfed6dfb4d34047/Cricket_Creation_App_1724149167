@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where on the app do you want the 'Nine' button to be added?\", \"option1\": \"On the main screen, visible as soon as the app is opened\", \"option2\": \"In a specific section of the app. Please specify which section.\"}, {\"question 2\": \"What function should the 'Nine' button perform when clicked?\", \"option1\": \"Take the user to a new page within the app. Please specify the page.\", \"option2\": \"Trigger a specific action or event within the app. Please specify the action.\"}], \"input_token_count\": 271, \"output_token_count\": 126, \"time_taken\": \"0:00:04.133318\"}",
+        "message_id": "3eda2c6fd32c407f8b6776e252a91b63",
+        "timestamp": "20082024102339",
+        "component_file_name": "simple_hero_component_1724149168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on adding a button with \"Nine\" text.",
         "message_id": "d7d0e405a2c34d608c4e1e2e9624ea7b",
