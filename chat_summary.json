@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the 'Great' button be positioned within the app?\", \"option1\": \"Below the score display\", \"option2\": \"At the end of the match summary\"}, {\"question 2\": \"What action should occur when the 'Great' button is pressed?\", \"option1\": \"Display a congratulatory message\", \"option2\": \"Share the match result\"}], \"input_token_count\": 271, \"output_token_count\": 90, \"time_taken\": \"0:00:02.819988\"}",
         "timestamp": "20082024102023",
         "message_id": "5049a067fb3a424ea69a0fa79d155abf"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Score Update' button to provide live score updates\", \"checked\": true}, {\"feature\": \"Implement a 'Player Stats' button to display player statistics\", \"checked\": true}, {\"feature\": \"Integrate a 'Match Highlights' button for quick video highlights\", \"checked\": false}, {\"feature\": \"Include a 'Fixtures' button for upcoming matches and events schedule\", \"checked\": true}, {\"feature\": \"Embed a 'Feedback' button to collect user opinions on app experience\", \"checked\": false}, {\"feature\": \"Add a 'News' button for latest cricket news and updates\", \"checked\": true}], \"input_token_count\": 225, \"output_token_count\": 146, \"time_taken\": \"0:00:04.447630\"}",
+        "timestamp": "20082024102025",
+        "message_id": "e302088c638e40e38b5b703d8c23151a"
     }
 ]
