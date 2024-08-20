@@ -12,5 +12,11 @@
         "content": "add a button with text Great",
         "timestamp": "20082024102020",
         "message_id": "c5502b47612b4f2ba46a7b13c7a8e0c8"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a button with text \"Great\".",
+        "timestamp": "20082024102020",
+        "message_id": "a79b30127ccc4638bb5516081e87a912"
     }
 ]
